@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Randypittman/Deli-Relics.git/static/css/main.5a5c23e3.css",
+    "main.js": "/Randypittman/Deli-Relics.git/static/js/main.b3b6e6d5.js",
+    "static/js/453.a10c5c83.chunk.js": "/Randypittman/Deli-Relics.git/static/js/453.a10c5c83.chunk.js",
+    "static/media/slider1.mp4": "/Randypittman/Deli-Relics.git/static/media/slider1.6ac4d8ff6997f3f0a8a5.mp4",
+    "static/media/Service1.jpeg": "/Randypittman/Deli-Relics.git/static/media/Service1.4522de93b51b6692e8ff.jpeg",
+    "static/media/Slider2.jpeg": "/Randypittman/Deli-Relics.git/static/media/Slider2.b27a9f9bd7da0526e7f2.jpeg",
+    "static/media/slider3.jpeg": "/Randypittman/Deli-Relics.git/static/media/slider3.43eec151116912dea23d.jpeg",
+    "static/media/Service3.jpeg": "/Randypittman/Deli-Relics.git/static/media/Service3.b415dfd80854fde3b6de.jpeg",
+    "static/media/Service2.jpeg": "/Randypittman/Deli-Relics.git/static/media/Service2.3b0ad7340a3a42636c77.jpeg",
+    "index.html": "/Randypittman/Deli-Relics.git/index.html",
+    "main.5a5c23e3.css.map": "/Randypittman/Deli-Relics.git/static/css/main.5a5c23e3.css.map",
+    "main.b3b6e6d5.js.map": "/Randypittman/Deli-Relics.git/static/js/main.b3b6e6d5.js.map",
+    "453.a10c5c83.chunk.js.map": "/Randypittman/Deli-Relics.git/static/js/453.a10c5c83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a5c23e3.css",
+    "static/js/main.b3b6e6d5.js"
+  ]
+}
